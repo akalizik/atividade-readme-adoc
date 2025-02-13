@@ -1,11 +1,10 @@
 = 📚 - Sistema de Gerenciamento de Biblioteca
-
-:icons: font
 :toc: left
+:icons: font
 :toclevels: 4
 
 
-== ❓ Sobre o Projeto
+== ❓ Sobre o Projeto 
 O **Sistema de Gerenciamento de Biblioteca** foi desenvolvido para **facilitar**  o processo de empréstimo, devolução e gerenciamento de livros em uma biblioteca. Através da aplicação, é possível **gerenciar empréstimos de livros, disponibilidade de exemplares, cadastro de usuários e gerar relatórios de atividades.** O sistema visa melhorar a experiência do usuário e otimizar a administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 
 == 🌠 Recursos
@@ -122,7 +121,7 @@ Para acessar a documentação completa da API no Swagger, inicie o servidor back
 * 📤 Envie para o repositório original (git push origin feature-nome-da-feature).
 * 👩‍💻  Abra um pull request descrevendo as mudanças feitas.
 
-== ©  Licença
+==  📜 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
